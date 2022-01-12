@@ -28,6 +28,7 @@
                                                                                        
   </div>
          
+  ##       
          <div>
                     ![Snake animation](https://github.com/lucasmoreira011/lucasmoreira011/blob/output/github-contribution-grid-snake.svg)
          </div>
