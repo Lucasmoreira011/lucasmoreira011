@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Lucas Moreira
 
-- ✨ Estudando HTML, CSS, FLUTTER, JavaScript e Node.js.
+- ✨ Estudando HTML, CSS, FLUTTER.
 
 <div>
      <a href="https://github.com/Lucasmoreira011">
